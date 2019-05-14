@@ -16,8 +16,9 @@ html, body, .gbfrf-container {
 
 .gbfrf-main-content {
   height: 100%;
-  background: #ffffff;
-  position: relative;
+  background: url('reeviera.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .gbfrf-settings-fab__container {
