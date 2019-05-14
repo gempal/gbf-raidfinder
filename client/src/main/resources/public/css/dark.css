@@ -1,6 +1,8 @@
 .gbfrf-theme--dark
 .gbfrf-main-content {
-  background: #222426;
+  background: url('reeviera.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .gbfrf-theme--dark
